@@ -13,5 +13,5 @@ Gem::Specification.new do |s|
   s.files = Dir['README.rdoc', 'LICENSE', 'lib/**/*', 'spec/**/*']
   s.require_path = ['lib']
 
-  s.add_dependency('nokogiri', '~> 1.4.4')
+  s.add_dependency('nokogiri', '~> 1.5.0')
 end
